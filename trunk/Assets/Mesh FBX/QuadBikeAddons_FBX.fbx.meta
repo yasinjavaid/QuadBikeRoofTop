@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 21f8839a811184b57a3727b1045e9c86
+timeCreated: 1447259222
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bumper
+    100002: Cutter
+    100004: group
+    100006: pasted__group10
+    100008: pasted__group11
+    100010: pasted__group6
+    100012: pasted__group8
+    100014: pasted__group9
+    100016: pasted__pCube10
+    100018: pasted__pCube11
+    100020: pasted__pCube4
+    100022: pasted__pCube5
+    100024: pasted__pCube9
+    100026: pasted__pCylinder15
+    100028: pasted__pCylinder17
+    100030: pasted__pCylinder18
+    100032: pasted__pCylinder2
+    100034: pasted__pCylinder3
+    100036: pasted__pCylinder4
+    100038: pasted__pPlane5
+    100040: pasted__pPlane6
+    100042: pasted__pPlane7
+    100044: pasted__pPlane8
+    100046: //RootNode
+    100048: Saw
+    100050: Shield
+    100052: Spiker
+    100054: transform6
+    100056: transform7
+    100058: transform8
+    100060: Tyre_Adon01
+    100062: Tyre_Adon02
+    100064: Tyre_Adon03
+    100066: Tyre_Adon04
+    400000: Bumper
+    400002: Cutter
+    400004: group
+    400006: pasted__group10
+    400008: pasted__group11
+    400010: pasted__group6
+    400012: pasted__group8
+    400014: pasted__group9
+    400016: pasted__pCube10
+    400018: pasted__pCube11
+    400020: pasted__pCube4
+    400022: pasted__pCube5
+    400024: pasted__pCube9
+    400026: pasted__pCylinder15
+    400028: pasted__pCylinder17
+    400030: pasted__pCylinder18
+    400032: pasted__pCylinder2
+    400034: pasted__pCylinder3
+    400036: pasted__pCylinder4
+    400038: pasted__pPlane5
+    400040: pasted__pPlane6
+    400042: pasted__pPlane7
+    400044: pasted__pPlane8
+    400046: //RootNode
+    400048: Saw
+    400050: Shield
+    400052: Spiker
+    400054: transform6
+    400056: transform7
+    400058: transform8
+    400060: Tyre_Adon01
+    400062: Tyre_Adon02
+    400064: Tyre_Adon03
+    400066: Tyre_Adon04
+    2300000: Bumper
+    2300002: pasted__pCube4
+    2300004: pasted__pCylinder2
+    2300006: pasted__pCylinder3
+    2300008: pasted__pCylinder4
+    2300010: Saw
+    2300012: Shield
+    2300014: Spiker
+    2300016: Tyre_Adon01
+    2300018: Tyre_Adon02
+    2300020: Tyre_Adon03
+    2300022: Tyre_Adon04
+    3300000: Bumper
+    3300002: pasted__pCube4
+    3300004: pasted__pCylinder2
+    3300006: pasted__pCylinder3
+    3300008: pasted__pCylinder4
+    3300010: Saw
+    3300012: Shield
+    3300014: Spiker
+    3300016: Tyre_Adon01
+    3300018: Tyre_Adon02
+    3300020: Tyre_Adon03
+    3300022: Tyre_Adon04
+    4300000: Shield
+    4300002: Tyre_Adon03
+    4300004: Bumper
+    4300006: Spiker
+    4300008: Saw
+    4300010: Tyre_Adon02
+    4300012: Tyre_Adon01
+    4300014: Tyre_Adon04
+    4300016: pasted__pCylinder2
+    4300018: pasted__pCylinder3
+    4300020: pasted__pCylinder4
+    4300022: pasted__pCube4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

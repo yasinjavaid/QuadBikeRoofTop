@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 8f1623352cb284c66900e40d016efb1c
+timeCreated: 1447445518
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back_axel
+    100002: BL
+    100004: BR
+    100006: FL
+    100008: FR
+    100010: Frame
+    100012: Front_Axel
+    100014: Handle
+    100016: Hood
+    100018: L_B_Bumper
+    100020: L_F_Bumper
+    100022: L_LowerTankee
+    100024: pasted__rim
+    100026: pasted__rim1
+    100028: pasted__rim2
+    100030: pasted__rim3
+    100032: //RootNode
+    100034: R_B_Bumper
+    100036: R_F_Bumper
+    100038: R_lowerTankee
+    100040: seat
+    100042: tankee
+    400000: back_axel
+    400002: BL
+    400004: BR
+    400006: FL
+    400008: FR
+    400010: Frame
+    400012: Front_Axel
+    400014: Handle
+    400016: Hood
+    400018: L_B_Bumper
+    400020: L_F_Bumper
+    400022: L_LowerTankee
+    400024: pasted__rim
+    400026: pasted__rim1
+    400028: pasted__rim2
+    400030: pasted__rim3
+    400032: //RootNode
+    400034: R_B_Bumper
+    400036: R_F_Bumper
+    400038: R_lowerTankee
+    400040: seat
+    400042: tankee
+    2300000: back_axel
+    2300002: BL
+    2300004: BR
+    2300006: FL
+    2300008: FR
+    2300010: Frame
+    2300012: Front_Axel
+    2300014: Handle
+    2300016: Hood
+    2300018: L_B_Bumper
+    2300020: L_F_Bumper
+    2300022: L_LowerTankee
+    2300024: pasted__rim
+    2300026: pasted__rim1
+    2300028: pasted__rim2
+    2300030: pasted__rim3
+    2300032: R_B_Bumper
+    2300034: R_F_Bumper
+    2300036: R_lowerTankee
+    2300038: seat
+    2300040: tankee
+    3300000: back_axel
+    3300002: BL
+    3300004: BR
+    3300006: FL
+    3300008: FR
+    3300010: Frame
+    3300012: Front_Axel
+    3300014: Handle
+    3300016: Hood
+    3300018: L_B_Bumper
+    3300020: L_F_Bumper
+    3300022: L_LowerTankee
+    3300024: pasted__rim
+    3300026: pasted__rim1
+    3300028: pasted__rim2
+    3300030: pasted__rim3
+    3300032: R_B_Bumper
+    3300034: R_F_Bumper
+    3300036: R_lowerTankee
+    3300038: seat
+    3300040: tankee
+    4300000: seat
+    4300002: BR
+    4300004: pasted__rim
+    4300006: BL
+    4300008: pasted__rim1
+    4300010: FL
+    4300012: pasted__rim2
+    4300014: FR
+    4300016: pasted__rim3
+    4300018: Handle
+    4300020: Hood
+    4300022: tankee
+    4300024: back_axel
+    4300026: Front_Axel
+    4300028: L_LowerTankee
+    4300030: R_lowerTankee
+    4300032: L_B_Bumper
+    4300034: R_B_Bumper
+    4300036: R_F_Bumper
+    4300038: L_F_Bumper
+    4300040: Frame
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

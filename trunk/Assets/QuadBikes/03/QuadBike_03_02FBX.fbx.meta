@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: d936e895e82764558a5d80310d103363
+timeCreated: 1447691776
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BL
+    100002: Body
+    100004: BR
+    100006: BumperCap
+    100008: FL
+    100010: Flag
+    100012: FR
+    100014: Frame
+    100016: Handle_A
+    100018: Hood
+    100020: L_B_Bumper
+    100022: L_F_Bumper
+    100024: pasted__pasted__rim
+    100026: pasted__pasted__rim1
+    100028: pasted__pasted__rim2
+    100030: pasted__pasted__rim3
+    100032: //RootNode
+    100034: R_B_Bumper
+    100036: R_F_Bumper
+    100038: seat
+    400000: BL
+    400002: Body
+    400004: BR
+    400006: BumperCap
+    400008: FL
+    400010: Flag
+    400012: FR
+    400014: Frame
+    400016: Handle_A
+    400018: Hood
+    400020: L_B_Bumper
+    400022: L_F_Bumper
+    400024: pasted__pasted__rim
+    400026: pasted__pasted__rim1
+    400028: pasted__pasted__rim2
+    400030: pasted__pasted__rim3
+    400032: //RootNode
+    400034: R_B_Bumper
+    400036: R_F_Bumper
+    400038: seat
+    2300000: BL
+    2300002: Body
+    2300004: BR
+    2300006: BumperCap
+    2300008: FL
+    2300010: Flag
+    2300012: FR
+    2300014: Frame
+    2300016: Handle_A
+    2300018: Hood
+    2300020: L_B_Bumper
+    2300022: L_F_Bumper
+    2300024: pasted__pasted__rim
+    2300026: pasted__pasted__rim1
+    2300028: pasted__pasted__rim2
+    2300030: pasted__pasted__rim3
+    2300032: R_B_Bumper
+    2300034: R_F_Bumper
+    2300036: seat
+    3300000: BL
+    3300002: Body
+    3300004: BR
+    3300006: BumperCap
+    3300008: FL
+    3300010: Flag
+    3300012: FR
+    3300014: Frame
+    3300016: Handle_A
+    3300018: Hood
+    3300020: L_B_Bumper
+    3300022: L_F_Bumper
+    3300024: pasted__pasted__rim
+    3300026: pasted__pasted__rim1
+    3300028: pasted__pasted__rim2
+    3300030: pasted__pasted__rim3
+    3300032: R_B_Bumper
+    3300034: R_F_Bumper
+    3300036: seat
+    4300000: Flag
+    4300002: seat
+    4300004: BR
+    4300006: pasted__pasted__rim
+    4300008: BL
+    4300010: pasted__pasted__rim1
+    4300012: FL
+    4300014: pasted__pasted__rim2
+    4300016: FR
+    4300018: pasted__pasted__rim3
+    4300020: L_B_Bumper
+    4300022: L_F_Bumper
+    4300024: Hood
+    4300026: R_F_Bumper
+    4300028: BumperCap
+    4300030: Frame
+    4300032: Body
+    4300034: R_B_Bumper
+    4300036: Handle_A
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ccc2c702a0c3e4f769e41e01e9525b4b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Car1RoofLightMaterial: {fileID: 2100000, guid: 6a0dd0fbf9eab496192c1883ae7cc232,
+      type: 2}
+  - Car2RoofLightMaterial: {fileID: 2100000, guid: d38de7821029748b68034148ab938133,
+      type: 2}
+  - Car3RoofLightMaterial: {fileID: 2100000, guid: bfac7a67981534395893d28440bdde46,
+      type: 2}
+  - Car1Light1: {fileID: 2800000, guid: a4bb8756246194820bfa4f163129843d, type: 3}
+  - Car2Light1: {fileID: 2800000, guid: b76e35e0a35524d079a40c110719bd2d, type: 3}
+  - Car3Light1: {fileID: 2800000, guid: 1e656c1db14294872b0c8bffa6de8b92, type: 3}
+  - Car1Light2: {fileID: 2800000, guid: 46ae3548326f74017a048f8a53c2881b, type: 3}
+  - Car2Light2: {fileID: 2800000, guid: 98d7b19025c6549bcbb8dcdd6dddf1ac, type: 3}
+  - Car3Light2: {fileID: 2800000, guid: d102fedc0cf144c19a7f2027fe48b8e9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

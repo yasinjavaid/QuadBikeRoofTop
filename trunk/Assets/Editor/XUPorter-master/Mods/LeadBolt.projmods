@@ -1,0 +1,10 @@
+{
+    "group": "LeadBolt",
+    "libs": [],
+    "frameworks": ["AdSupport.framework"],
+    "headerpaths": [],
+    "files":   [],
+    "folders": [],    
+    "excludes": ["^.*.meta$", "^.*.mdown$", "^.*.pdf$"],
+    "linker_flags": ["-ObjC"]
+}

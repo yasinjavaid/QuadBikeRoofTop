@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 10a6ed39b80f16b479ec75660b554fb2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Back_Grill
+    100002: BL
+    100004: Body
+    100006: BR
+    100008: Engine
+    100010: FL
+    100012: FR
+    100014: Front
+    100016: Grill
+    100018: group1
+    100020: Handle
+    100022: L_Back_Bumper
+    100024: L_Front_Bumper
+    100026: L_Front_Bumper1
+    100028: //RootNode
+    100030: R_Back_Bumper
+    100032: rim
+    100034: rim 1
+    100036: rim 2
+    100038: rim 3
+    100040: Seat
+    100042: Tankee
+    400000: Back_Grill
+    400002: BL
+    400004: Body
+    400006: BR
+    400008: Engine
+    400010: FL
+    400012: FR
+    400014: Front
+    400016: Grill
+    400018: group1
+    400020: Handle
+    400022: L_Back_Bumper
+    400024: L_Front_Bumper
+    400026: L_Front_Bumper1
+    400028: //RootNode
+    400030: R_Back_Bumper
+    400032: rim
+    400034: rim 1
+    400036: rim 2
+    400038: rim 3
+    400040: Seat
+    400042: Tankee
+    2300000: Back_Grill
+    2300002: BL
+    2300004: Body
+    2300006: BR
+    2300008: Engine
+    2300010: FL
+    2300012: FR
+    2300014: Front
+    2300016: Grill
+    2300018: Handle
+    2300020: L_Back_Bumper
+    2300022: L_Front_Bumper
+    2300024: L_Front_Bumper1
+    2300026: R_Back_Bumper
+    2300028: rim
+    2300030: rim 1
+    2300032: rim 2
+    2300034: rim 3
+    2300036: Seat
+    2300038: Tankee
+    3300000: Back_Grill
+    3300002: BL
+    3300004: Body
+    3300006: BR
+    3300008: Engine
+    3300010: FL
+    3300012: FR
+    3300014: Front
+    3300016: Grill
+    3300018: Handle
+    3300020: L_Back_Bumper
+    3300022: L_Front_Bumper
+    3300024: L_Front_Bumper1
+    3300026: R_Back_Bumper
+    3300028: rim
+    3300030: rim 1
+    3300032: rim 2
+    3300034: rim 3
+    3300036: Seat
+    3300038: Tankee
+    4300000: Front
+    4300002: Body
+    4300004: Tankee
+    4300006: Seat
+    4300008: L_Front_Bumper
+    4300010: L_Back_Bumper
+    4300012: R_Back_Bumper
+    4300014: Grill
+    4300016: Back_Grill
+    4300018: Engine
+    4300020: BR
+    4300022: rim
+    4300024: FR
+    4300026: rim
+    4300028: FL
+    4300030: rim
+    4300032: BL
+    4300034: rim
+    4300036: L_Front_Bumper1
+    4300038: Handle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

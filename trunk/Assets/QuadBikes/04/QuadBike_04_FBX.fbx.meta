@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 43140fdc4daa4462cb0e20b71786070f
+timeCreated: 1447865592
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back
+    100002: BL
+    100004: Bonut
+    100006: BR
+    100008: FL
+    100010: FR
+    100012: Frame
+    100014: Front01
+    100016: FrontBar
+    100018: Handle_A
+    100020: Hood
+    100022: L_B_Bumper
+    100024: L_FootRest
+    100026: LowerFront
+    100028: pasted__pasted__rim
+    100030: pasted__pasted__rim1
+    100032: pasted__pasted__rim2
+    100034: pasted__pasted__rim3
+    100036: Pipes
+    100038: //RootNode
+    100040: R_B_Bumper
+    100042: R_FootRest
+    100044: seat
+    100046: sides
+    100048: Tankee
+    400000: back
+    400002: BL
+    400004: Bonut
+    400006: BR
+    400008: FL
+    400010: FR
+    400012: Frame
+    400014: Front01
+    400016: FrontBar
+    400018: Handle_A
+    400020: Hood
+    400022: L_B_Bumper
+    400024: L_FootRest
+    400026: LowerFront
+    400028: pasted__pasted__rim
+    400030: pasted__pasted__rim1
+    400032: pasted__pasted__rim2
+    400034: pasted__pasted__rim3
+    400036: Pipes
+    400038: //RootNode
+    400040: R_B_Bumper
+    400042: R_FootRest
+    400044: seat
+    400046: sides
+    400048: Tankee
+    2300000: back
+    2300002: BL
+    2300004: Bonut
+    2300006: BR
+    2300008: FL
+    2300010: FR
+    2300012: Frame
+    2300014: Front01
+    2300016: FrontBar
+    2300018: Handle_A
+    2300020: Hood
+    2300022: L_B_Bumper
+    2300024: L_FootRest
+    2300026: LowerFront
+    2300028: pasted__pasted__rim
+    2300030: pasted__pasted__rim1
+    2300032: pasted__pasted__rim2
+    2300034: pasted__pasted__rim3
+    2300036: Pipes
+    2300038: R_B_Bumper
+    2300040: R_FootRest
+    2300042: seat
+    2300044: sides
+    2300046: Tankee
+    3300000: back
+    3300002: BL
+    3300004: Bonut
+    3300006: BR
+    3300008: FL
+    3300010: FR
+    3300012: Frame
+    3300014: Front01
+    3300016: FrontBar
+    3300018: Handle_A
+    3300020: Hood
+    3300022: L_B_Bumper
+    3300024: L_FootRest
+    3300026: LowerFront
+    3300028: pasted__pasted__rim
+    3300030: pasted__pasted__rim1
+    3300032: pasted__pasted__rim2
+    3300034: pasted__pasted__rim3
+    3300036: Pipes
+    3300038: R_B_Bumper
+    3300040: R_FootRest
+    3300042: seat
+    3300044: sides
+    3300046: Tankee
+    4300000: Hood
+    4300002: Tankee
+    4300004: Front01
+    4300006: Frame
+    4300008: FrontBar
+    4300010: LowerFront
+    4300012: Bonut
+    4300014: sides
+    4300016: L_FootRest
+    4300018: L_B_Bumper
+    4300020: R_B_Bumper
+    4300022: R_FootRest
+    4300024: back
+    4300026: Pipes
+    4300028: Handle_A
+    4300030: FR
+    4300032: pasted__pasted__rim3
+    4300034: FL
+    4300036: pasted__pasted__rim2
+    4300038: BL
+    4300040: pasted__pasted__rim1
+    4300042: BR
+    4300044: pasted__pasted__rim
+    4300046: seat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

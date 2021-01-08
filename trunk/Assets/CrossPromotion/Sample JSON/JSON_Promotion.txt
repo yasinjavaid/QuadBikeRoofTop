@@ -1,0 +1,42 @@
+
+
+
+/////////////////JSON STRUCTURE FOR CROSS PROMOTION MANAGER////////////////////
+
+{
+
+	"refresh_rate": "24",
+
+	"promotion1":{
+    	"title"		: "01: test title",
+    	"promo"		: "01: url for promo image to be downloaded",
+    	"text"		: "01: text to b displayed along with the game",
+     	"url"		: "01: url to be taken after the promo is clicked",	
+    	"refID"		: "01: refID for the game"
+  	},
+  	
+  	"promotion2":{
+    	"title"		: "02: test title",
+    	"promo"		: "02: url for promo image to be downloaded",
+    	"text"		: "02: text to b displayed along with the game",
+     	"url"		: "02: url to be taken after the promo is clicked",	
+    	"refID"		: "02: refID for the game"
+  	},
+  	
+  	"promotion3":{
+    	"title"		: "03: test title",
+    	"promo"		: "03: url for promo image to be downloaded",
+    	"text"		: "03: text to b displayed along with the game",
+     	"url"		: "03: url to be taken after the promo is clicked",	
+    	"refID"		: "03: refID for the game"	
+  	}
+  	
+}
+
+////////////////////////////////////////////////
+http://www.freeformatter.com/json-formatter.html
+1. Convert to 1 liner JSON
+2. Apply Javscript escaped option
+
+
+
